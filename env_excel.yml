@@ -1,0 +1,17 @@
+name: excel
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - xarray
+  - python
+  - ipython
+  - cartopy
+  - scipy
+  - seaborn
+  - xarray-extras
+  - cftime
+  - xlrd
