@@ -1,3 +1,3 @@
 import pandas as pd
 
-fileread = pd.read_csv('Skjema_Lyseparken.xlsx')
+fileread = pd.read_excel('Skjema_Lyseparken.xlsx')
